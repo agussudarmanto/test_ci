@@ -1,4 +1,4 @@
-import 'package:Nutrition_App/detailsPage.dart';
+import 'package:nutrition_app/detailsPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
